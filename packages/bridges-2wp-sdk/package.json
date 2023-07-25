@@ -1,0 +1,9 @@
+{
+  "name": "bridges-2wp-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@rsksmart/bridges-core-sdk": "^1.0.0"
+  }
+}
